@@ -23,6 +23,7 @@
 ## Languages
 
 <details>
+  <summary>Details</summary>
 
   * Java
   * JavaScript
@@ -31,6 +32,7 @@
 ## Skills
 
 <details>
+  <summary>Details</summary>
 
   * JavaAgent
   * Netty
