@@ -26,15 +26,13 @@
   <summary>Details</summary>
 
   * Java
-  * JavaScript
+  * TypeScript
 </details>
 
 ## Skills
 
 <details>
   <summary>Details</summary>
-
+  * Http
   * JavaAgent
-  * Netty
-  * SpringCloud
 </details>
