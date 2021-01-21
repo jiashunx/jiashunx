@@ -33,6 +33,7 @@
 
 <details>
   <summary>Details</summary>
+
   * Http
   * JavaAgent
 </details>
