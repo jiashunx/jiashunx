@@ -26,7 +26,7 @@
   <summary>Details</summary>
 
   * Java
-  * TypeScript
+  * Golang
 </details>
 
 ## Skills
@@ -36,4 +36,6 @@
 
   * Http
   * JavaAgent
+  * JavaWeb
+  * SpringCloud
 </details>
