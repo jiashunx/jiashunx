@@ -12,8 +12,8 @@
 
 * **Name:** jiashunx
 * **Role:** Backend Engineer
-* **Location:** Hefei, China
-* **Email:** <wenjiashun@163.com>
+* **Location:** ChangSha, China
+* **Email:** <jiashunx2020@163.com>
 
 ## Projects
 
