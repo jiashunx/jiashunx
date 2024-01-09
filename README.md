@@ -19,7 +19,7 @@
 
 * [Toy-LogSearch](https://github.com/jiashunx/Toy-LogSearch): log search toys based ssh and implements by java&go
 * [masker-rest](https://github.com/jiashunx/masker-rest): an rest and websocket server framework, based on netty.
-* [tools-sqlite3](https://github.com/jiashunx/tools-sqlite3): sqlite3 dev tool.
+* [sdk-sqlite3](https://github.com/jiashunx/sdk-sqlite3): sqlite3 devkit.
 
 ## Languages
 
