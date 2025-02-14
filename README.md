@@ -17,9 +17,9 @@
 
 ## Projects
 
-* [Toy-LogSearch](https://github.com/jiashunx/Toy-LogSearch): log search toys based ssh and implements by java&go
-* [masker-rest](https://github.com/jiashunx/masker-rest): an rest and websocket server framework, based on netty.
-* [sdk-sqlite3](https://github.com/jiashunx/sdk-sqlite3): sqlite3 devkit.
+* [masker-rest](https://github.com/jiashunx/masker-rest): netty-based implementation of the Http framework, support for publishing rest and websocket services.
+* [eureka-client-go](https://github.com/jiashunx/eureka-client-go): eureka client based on golang implementation.
+* [sdk-sqlite3](https://github.com/jiashunx/sdk-sqlite3): sqlite3 client with concurrent read-exclusive write support.
 
 ## Languages
 
@@ -37,6 +37,5 @@
 
   * Http
   * JavaAgent
-  * JavaWeb
   * SpringCloud
 </details>
